@@ -9,7 +9,7 @@ Serão 30 dias de código, para fixarmos nosso aprendizado.
 
 <h2>Vamos lá!!!!</h2>
 
-
+```
 Dia 01 - Declare uma mensagem!
 Dia 02 - Função sem retorno e sem parâmetro
 Dia 03 - Função sem retorno, com parâmetro
@@ -40,3 +40,5 @@ Dia 27 - Use o método DELETE
 Dia 28 - Use o método PUT
 Dia 29 - Use o método DELETE
 Dia 30 - Que dia é hoje?
+
+```
