@@ -11,6 +11,7 @@ Vamos fazer um código de JavaScript por dia e relembrar o que aprendemos lá no
 Aprender e rememorar nunca é demais!!
 
 **Nível:** Inciante;
+
 **Ferramentas necessárias:**
 1. Um editor de código. Uso o Visual Studio Code;
 2. Node.JS;
