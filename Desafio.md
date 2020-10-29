@@ -2,14 +2,14 @@
 
 Seja muito Bem Vindx!!
 
-Já passamos da metade do bootcamp de Desenvolvedoras Back-End da Reprograma, mas estamos em isolamento social e não podemos fazer uma festinha. Que tal comemorar o que aprendemos de uma forma diferente?
-Existem vários desafios na comunidade e eles foram a inspiração para essa comemoração
+Reposítório criado para o desenvolvimento do Desafio 30 dias com Javascript.
+
 Vamos fazer um código de JavaScript por dia e relembrar o que aprendemos lá no início e reforçar o que aprendemos até aqui.
-Serão 30 dias de código, para fixarmos nosso aprendizado.
+
 
 <h2>Vamos lá!!!!</h2>
 
-
+```
 Dia 01 - Declare uma mensagem!
 Dia 02 - Função sem retorno e sem parâmetro
 Dia 03 - Função sem retorno, com parâmetro
@@ -40,3 +40,6 @@ Dia 27 - Use o método DELETE
 Dia 28 - Use o método PUT
 Dia 29 - Use o método DELETE
 Dia 30 - Que dia é hoje?
+
+```
+
