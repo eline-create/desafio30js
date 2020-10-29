@@ -1,10 +1,25 @@
 <h1>Desafio 30 dias de código com JavaScript</h1>
 
+<center><img src="./imagens/js.png" width="250" height="150"></center>
+
 Seja muito Bem Vindx!!
 
 Reposítório criado para o desenvolvimento do Desafio 30 dias com Javascript.
 
 Vamos fazer um código de JavaScript por dia e relembrar o que aprendemos lá no início e reforçar o que aprendemos até aqui.
+
+Nível: Inciante
+Ferramentas necessárias:
+1. Um editor de código. Uso o Visual Studio Code;
+2. Node.JS;
+3. Git Bash. Caso não queira podes usar o [repl.it](https://repl.it/)
+
+**Quer contribuir?**
+1. Faça um clone para sua máquina;
+2. Envia a PR da sua contribuição;
+3. Adiciona teu perfil na pasta Contribuitors. Abre um arquivo md com o seu nome, dentro da pasta e adiciona as informações segundo o modelo do meu perfil que está lá. 
+
+
 
 
 <h2>Vamos lá!!!!</h2>
@@ -43,3 +58,4 @@ Dia 30 - Que dia é hoje?
 
 ```
 
+Se você quer contribuir com este projeto
