@@ -13,17 +13,16 @@ Aprender e rememorar nunca é demais!!
 **Nível:** Inciante;
 
 **Ferramentas necessárias:**
+
 1. Um editor de código. Uso o Visual Studio Code;
 2. Node.JS;
 3. Git Bash. Caso não queira podes usar o [repl.it](https://repl.it/)
 
 **Quer contribuir?**
+
 1. Faça um clone para sua máquina;
 2. Envia a PR da sua contribuição;
-3. Adiciona teu perfil na pasta Contributors. Abre um arquivo md com o seu nome, dentro da pasta e adiciona as informações segundo o modelo do meu perfil (./Contributors/ElinePimentel.md) que está lá. 
-
-
-
+3. Adiciona teu perfil na pasta Contributors. Abre um arquivo md com o seu nome, dentro da pasta e adiciona as informações segundo o modelo do meu perfil (./Contributors/ElinePimentel.md) que está lá.
 
 <h2>Vamos lá!!!!</h2>
 
@@ -48,16 +47,15 @@ Dia 17 - Use o MAP
 Dia 18 - Use o FILTER
 Dia 19 - Use o FOR Each
 Dia 20 - Vamos fazer uma árvore genealógica?
-Dia 21 - 
+Dia 21 -
 Dia 22 -
 Dia 23 -
-Dia 24 - 
-Dia 25 - Use o método GET
-Dia 26 - Use o método POST
-Dia 27 - Use o método DELETE
-Dia 28 - Use o método PUT
-Dia 29 - Use o método DELETE
-Dia 30 - Que dia é hoje?
+Dia 24 - Restaurante Novo - A que horas abre?
+Dia 25 - Vamos ver o Menu? Use o método GET
+Dia 26 - Deixaram que eu criasse um prato!!Use o método POST
+Dia 27 - Errei um ingrediente -Use o método PATCH
+Dia 28 - Eita, o Chef testou e não gostouUse o método DELETE
+Dia 29 - Que dia é hoje?
+Dia 30 -
 
 ```
-
