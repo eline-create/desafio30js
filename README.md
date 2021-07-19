@@ -1,21 +1,29 @@
 <h1>Desafio 30 dias de código com JavaScript</h1>
 
-Repositório para Desenvolvimento do Desafio 30 dias com JavaScript
-
 <center><img src="./Images/js.png" width="250" height="150"></center>
 
-Seja muito Bem Vindx!!
+Seja muito Bem Vinde!!
 
 Reposítório criado para o desenvolvimento do Desafio 30 dias com Javascript.
 
 Vamos fazer um código de JavaScript por dia e relembrar o que aprendemos lá no início e reforçar o que aprendemos até aqui.
 
 **_Nível:_** Inciante;
+
+***Status***
+
+Em andamento
+
 **_Ferramentas necessárias:_**
 
 1. Um editor de código. Uso o Visual Studio Code;
 2. Node.JS;
 3. Git Bash. Caso não queira podes usar o [repl.it](https://repl.it/)
+
+***O que pode melhorar?***
+
+- Aplicação de testes utilizando o Jest.JS;
+- Criar uma página web para integrar o desafio;
 
 **Quer contribuir?**
 
@@ -32,15 +40,15 @@ Dia 02 - Função sem retorno e sem parâmetro
 Dia 03 - Função sem retorno, com parâmetro
 Dia 04 - Função com mais de um parâmetro
 Dia 05 - Use a Arrow function Vamos usar a Template String?
-Dia 06 -
+Dia 06 - Que tal uma função oculta?
 
 Dia 07 - Ajudando a Mônica a organizar as contas de Casa
-Dia 08 - O professor André precisa fechar o semestre (soma e média)
-Dia 09 - Será que alguém reprovou? (If /else)
+Dia 08 - O professor André precisa fechar o semestre 
+Dia 09 - Será que alguém reprovou? 
 
-Dia 10 - Faça um loop - FOR ##
-Dia 11 - Use uma condição - WHILE ##
-Dia 12 - Do While ##
+Dia 10 - Precisamos de um laço, mas é o de repetição
+Dia 11 - Use uma condição - WHILE
+Dia 12 -  Já ouviu falar no Do While?
 
 Dia 13 - O que é this?
 Dia 14 - Sorte ou Revés? (Numéro Randômico)
